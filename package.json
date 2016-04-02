@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/Drakirus/Markdown-To-PDF#readme",
   "dependencies": {
-    "markdown-it": "^6.0.1"
+    "highlight.js": "^9.2.0",
+    "html-pdf": "^2.0.1",
+    "markdown-it": "^6.0.1",
+    "markdown-it-imsize": "^2.0.1"
   }
 }
