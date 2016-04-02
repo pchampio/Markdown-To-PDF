@@ -2,13 +2,13 @@
   "name": "y",
   "version": "1.0.0",
   "description": "Convert markdown-formatted documents to PDF",
-  "main": "y",
+  "main": "mdToPdf.js",
   "scripts": {
-    "test": "n"
+    "test": "node mdToPdf.js ./Demo.md"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Drakirus/Markdown-To-PDF.git"
+    "url": "git+ssh://git@github.com/Drakirus/Markdown-To-PDF.git"
   },
   "keywords": [
     "markdown",
