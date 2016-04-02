@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Convert markdown-formatted documents to PDF",
+  "main": "y",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drakirus/Markdown-To-PDF.git"
+  },
+  "keywords": [
+    "markdown",
+    "pdf"
+  ],
+  "author": "Drakirus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drakirus/Markdown-To-PDF/issues"
+  },
+  "homepage": "https://github.com/Drakirus/Markdown-To-PDF#readme",
+  "dependencies": {
+    "markdown-it": "^6.0.1"
+  }
+}
