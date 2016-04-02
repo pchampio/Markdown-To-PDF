@@ -1,5 +1,5 @@
 {
-  "name": "y",
+  "name": "mdToPdf",
   "version": "1.0.0",
   "description": "Convert markdown-formatted documents to PDF",
   "main": "mdToPdf.js",
