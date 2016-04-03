@@ -3,7 +3,7 @@ Markdown to PDF generator
 
 ```
 $ npm install mdToPdf
-$ mdToPdf {FILE.md} #Create a pdf version of {FILE.md}
+$ node mdToPdf {FILE.md} #Create a pdf version of {FILE.md}
 
 ```
 
