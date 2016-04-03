@@ -1,6 +1,6 @@
 {
   "name": "mdToPdf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert markdown-formatted documents to PDF",
   "main": "mdToPdf.js",
   "scripts": {
