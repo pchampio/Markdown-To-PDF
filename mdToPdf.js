@@ -1,8 +1,14 @@
+#!/usr/bin/env node
+
 var hljs  = require('highlight.js');
 
 var themeCode = 'github-gist.css'
 
 var args = process.argv.slice(2);
+if (args.length == 0) {
+  console.log('mdToPdf <file.md>');
+  process.exit(1);
+}
 
 var filepath = args[0];
 

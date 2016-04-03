@@ -2,8 +2,10 @@ Markdown to PDF generator
 ===
 
 ```
-$ npm install #install package.json dependencies
-$ node mdToPdf.js ./{FILE.md} #Create a pdf version of {FILE.md}
+$ npm install mdToPdf
+$ mdToPdf {FILE.md} #Create a pdf version of {FILE.md}
 
 ```
+
+Use `<div class="page-break"></div>` to start directly on a new page
 
